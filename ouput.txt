@@ -1,6 +1,0 @@
-{
-  "type": "tool_result",
-  "tool_use_id": "actual_tool_call_id",
-  "content": "{\"symbol\": \"فولاد\", \"name\": \"فولاد مبارکه اصفهان\", \"last_price\": 410.0, \"price_change_percent\": -2.84, \"volume\": 4053852458, \"market_cap\": 795285000000000.0, \"last_update\": \"2026-10-24T12:30:00\"}"
-}
-Invalid symbol handled correctly.
