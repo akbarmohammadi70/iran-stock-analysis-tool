@@ -6,7 +6,7 @@ from src.stock_tool import get_stock_info
 result = get_stock_info("فولاد")
 assert isinstance(result, dict)
 
-# Test serialization for a Claude API tool result.
+# Test serialization for a API tool result.
 tool_result = {
     "type": "tool_result",
     "tool_use_id": "actual_tool_call_id",
