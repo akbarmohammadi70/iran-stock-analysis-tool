@@ -9,6 +9,7 @@
         "description": "نماد سهم، مثلاً 'فولاد' یا 'خودرو'"
       }
     },
-    "required": ["symbol"]
+    "required": ["symbol"],
+    "additionalProperties": false
   }
 }
